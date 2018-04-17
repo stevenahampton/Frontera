@@ -1,0 +1,42 @@
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\bin\Release\Frontera.exe
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\bin\Release\OpenNETCF.Configuration.dll
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\bin\Release\OpenNETCF.dll
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\bin\Release\OpenNETCF.WindowsCE.dll
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\bin\Release\OpenNETCF.WindowsCE.Messaging.dll
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\bin\Release\OpenNETCF.xml
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\bin\Release\OpenNETCF.WindowsCE.Messaging.xml
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\bin\Release\OpenNETCF.WindowsCE.xml
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\bin\Release\OpenNETCF.Configuration.xml
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\obj\Release\Frontera.AccessButton.resources
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\obj\Release\Frontera.ConfirmDialog.resources
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\obj\Release\Frontera.MainForm.resources
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\obj\Release\Frontera.csproj.GenerateResource.Cache
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\obj\Release\Frontera.exe
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\bin\Release\OpenNETCF.AppSettings.dll
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\bin\Release\OpenNETCF.AppSettings.xml
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\bin\Release\Resources\frontera.ico
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\bin\Release\Resources\launch.bmp
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\bin\Release\Resources\process.bmp
+C:\Documents and Settings\s1hamp\My Documents\Visual Studio 2008\Projects\Frontera\bin\Release\Resources\window.bmp
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\obj\Release\ResolveAssemblyReference.cache
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\obj\Release\Frontera.AccessButton.resources
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\obj\Release\Frontera.ConfirmDialog.resources
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\obj\Release\Frontera.MainForm.resources
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\obj\Release\Frontera.csproj.GenerateResource.Cache
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\obj\Release\Frontera.exe
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\bin\Release\Resources\frontera.ico
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\bin\Release\Resources\launch.bmp
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\bin\Release\Resources\process.bmp
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\bin\Release\Resources\window.bmp
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\bin\Release\Frontera.exe
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\bin\Release\OpenNETCF.AppSettings.dll
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\bin\Release\OpenNETCF.dll
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\bin\Release\OpenNETCF.WindowsCE.dll
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\bin\Release\OpenNETCF.WindowsCE.Messaging.dll
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\bin\Release\OpenNETCF.Configuration.dll
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\bin\Release\OpenNETCF.WindowsCE.Messaging.xml
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\bin\Release\OpenNETCF.WindowsCE.xml
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\bin\Release\OpenNETCF.AppSettings.xml
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\bin\Release\OpenNETCF.Configuration.xml
+D:\Steven's Documents\Visual Studio 2008\Projects\Frontera\bin\Release\OpenNETCF.xml
